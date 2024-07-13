@@ -1,0 +1,8 @@
+logger 4j 
+using logger class for logging and creating a object for that class
+appenders are like storing the logs into db or file or connsole . e.g; jdbc appender, console appender and file appender
+configure log4j in three ways:
+1.configure method
+2.property file
+3.xml file(dom configurator)
+layout are there to store logs: simple,patterns,xml,html
